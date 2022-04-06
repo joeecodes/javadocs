@@ -10,5 +10,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="ionicons" level="application" />
     <orderEntry type="library" name="aa1f098a2b44de4617a6b5b758a07e96" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
   </component>
 </module>
