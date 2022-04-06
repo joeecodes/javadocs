@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Saira+Semi+Condensed");
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+body{
+    width:100%;
+    overflow:hidden;
+    background:hsla(0, 5%, 5%, 1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(to right top, hsla(0, 5%,15%, 0.5), hsla(0, 5%, 5%,1));
+    background: #39393B;
+    font-family: "Saira Semi Condensed", sans-serif;
+}
+svg{
+    width:100%;
+}
+
+.content {
+    text-align: center;
+    padding-top: 150px;
+    font-size: 20px;
+}
+.mikasa {
+    margin-top: 20px;
+    width: 250px;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mikasa:hover {
+    box-shadow: 0 0 10px 1px rgba(0, 140, 186, 0.5);
+}
+
+
+a {
+    color: snow;
+}
+h3 {
+    color: white;
+}
+
+
+p {
+    font-weight: 100;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 10px;
+    color: white;
+    margin-top: 30px;
+}
