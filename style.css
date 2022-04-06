@@ -43,8 +43,7 @@ a {
     color: snow;
 }
 
-a:hover, a:visited, a:link, a:active
-{
+a:hover, a:visited, a:link, a:active {
     text-decoration: none;
 }
 
@@ -83,8 +82,8 @@ p {
 }
 
 hr {
-    width:20%;
-    margin:30px auto;
+    width: 20%;
+    margin: 30px auto;
     color: ghostwhite;
     opacity: 50%;
 }
