@@ -6,7 +6,7 @@
 
 body {
     width: 100%;
-    /*overflow: hidden;*/
+    /*!*overflow: hidden;*! 07/04/2022 - JOSEPH HOSTEN*/
     background: hsla(0, 5%, 5%, 1);
     background-repeat: no-repeat;
     background-attachment: fixed;
