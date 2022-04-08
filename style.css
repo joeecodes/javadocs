@@ -6,7 +6,7 @@
 
 body {
     width: 100%;
-    overflow: hidden;
+    /*!*overflow: hidden;*! 07/04/2022 - JOSEPH HOSTEN*/
     background: hsla(0, 5%, 5%, 1);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -21,8 +21,8 @@ svg {
 
 .content {
     text-align: center;
-    padding-top: 150px;
-    font-size: 25px;
+    padding-top: 80px;
+    font-size: 15px;
 }
 
 .mikasa {
