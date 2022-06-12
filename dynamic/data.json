@@ -16,7 +16,12 @@
   },
   {
     "id": "4",
-    "title": "NegativeKB Plugin Framework",
-    "link": "/negative-framework"
+    "title": "Negative Games Framework",
+    "link": "https://framework.docs.negative.games/"
+  },
+  {
+    "id": "5",
+    "title": "Negative Games Framework Wiki",
+    "link": "https://github.com/Negative-Games/Framework/wiki"
   }
 ]
